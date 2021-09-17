@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/apachejars/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/saleniumproject/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
